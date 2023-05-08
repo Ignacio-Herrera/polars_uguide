@@ -9,7 +9,8 @@
 ![Badge last test](https://img.shields.io/badge/last_test-success-brightgreen)
 ![Badge version](https://img.shields.io/badge/version-beta_0.0.1-blue)
 ![Badge language](https://img.shields.io/badge/language-US_english-blue)
-![Badge programming language](https://img.shields.io/badge/programming_language-Jupiter_Notebooks/Python/Polars-orange)
+![Badge programming language](https://img.shields.io/badge/programming_language-Jupiter_Notebooks/Python-orange)
+![Badge programming libraries](https://img.shields.io/badge/programming_libraries-Polars-orange)
 ![Badge author](https://img.shields.io/badge/author-Ignacio_Herrera-blue)
 ![Badge contributors](https://img.shields.io/badge/contributors-None-blue)
 
