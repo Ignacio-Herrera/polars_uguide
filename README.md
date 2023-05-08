@@ -31,4 +31,11 @@ This repository stores code tests made from the study of the polars user guide t
 
 
 
+</br>
+</br>
+
+## Autores
+
+| [<img src="https://avatars.githubusercontent.com/u/48035706?v=4" width=115><br><sub>Jose Ignacio Herrera martinez</sub>](https://github.com/Ignacio-Herrera) |
+| :---: |
 
